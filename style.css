@@ -1,0 +1,21 @@
+header{
+    background-image: url("fundo.JPG");
+    padding: 72;
+    margin: 0;
+    text-align: center;
+}
+.img{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 50%;
+    object-fit: contain;
+    transform: translate(-105%,-1%);
+}
+img{
+    text-align: left;
+}
+section{
+    text-align: center;
+}
+
